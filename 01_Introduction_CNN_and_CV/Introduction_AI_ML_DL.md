@@ -19,7 +19,8 @@ Persamaan matematis pada AI sering kali mengimplementasikan :
 - **Logika**
 
 ### Prinsip Kerja AI
-AI hanya bis memproses data numerik. Apabila terdapat data non-numerik (e.g., teks, gambar, suara), maka diperlukan tahapan untuk melakukan **konversi data ke bentuk numerik** dalam tahap *pre-processing data* 
+AI hanya bisa memproses data numerik. Apabila terdapat data non-numerik (e.g., teks, gambar, suara), maka diperlukan tahapan untuk melakukan **konversi data ke bentuk numerik** dalam tahap *pre-processing data*
+
 ![AI](https://th.bing.com/th?id=OIP.a2N1a359eqjA9KtJDYa8vAHaEK&w=200&h=200&c=12&rs=1&p=0&o=6&pid=23.1)
 ---
 
