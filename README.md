@@ -19,8 +19,8 @@ We hope this repository supports everyone's learning journey! Stay tuned for upd
 
 ---
 
-## 🚧 Building Animation
-<img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" width="300" alt="Under Construction">
+## 🚧 This Repo Still Under Contruction
+![Under Construction](https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif)
 
 ---  
 
