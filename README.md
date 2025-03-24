@@ -19,7 +19,7 @@ We hope this repository supports everyone's learning journey! Stay tuned for upd
 
 ---
 
-## 🚧 This Repo Still Under Contruction
+## 🚧 This Repo Still Under Construction
 ![Under Construction](https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif)
 
 ---  
