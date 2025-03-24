@@ -21,7 +21,7 @@ Persamaan matematis pada AI sering kali mengimplementasikan :
 ### Prinsip Kerja AI
 AI hanya bisa memproses data numerik. Apabila terdapat data non-numerik (e.g., teks, gambar, suara), maka diperlukan tahapan untuk melakukan **konversi data ke bentuk numerik** dalam tahap *pre-processing data*
 
-![AI](https://th.bing.com/th?id=OIP.a2N1a359eqjA9KtJDYa8vAHaEK&w=200&h=200&c=12&rs=1&p=0&o=6&pid=23.1)
+![AI]([https://th.bing.com/th?id=OIP.a2N1a359eqjA9KtJDYa8vAHaEK&w=200&h=200&c=12&rs=1&p=0&o=6&pid=23.1](https://www.bing.com/ck/a?!&&p=ad64a377b54fb7bd96a5c007eb9bd7082dd7bce4f67895686da25d88d648c628JmltdHM9MTc0Mjc3NDQwMA&ptn=3&ver=2&hsh=4&fclid=2c263c08-13d0-6498-02ab-29b012a865ef&u=a1aHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9hZHZpc29yL2ludmVzdGluZy9iZXN0LWFpLXN0b2Nrcy8&ntb=1))
 ---
 
 ## 📈 Machine Learning
