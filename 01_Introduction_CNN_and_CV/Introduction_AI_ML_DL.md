@@ -45,7 +45,7 @@ graph LR
 ---
 ## 🧠 Deep Learning
 
-![Artificial Neural Network](https://github.com/Rezorrie/CNN-ComputerVision-Module/blob/main/01_Introduction_CNN_and_CV/Images/AI%20Hierarchy.png?raw=true)
+![Artificial Neural Network](https://raw.githubusercontent.com/Rezorrie/CNN-ComputerVision-Module/44b0df9de1c4c17640e34e6a653486660bcf53be/01_Introduction_CNN_and_CV/Images/neutral-network-diagram.svg)
 )
 > **source** : https://www.spotfire.com/glossary/what-is-a-neural-network
 
