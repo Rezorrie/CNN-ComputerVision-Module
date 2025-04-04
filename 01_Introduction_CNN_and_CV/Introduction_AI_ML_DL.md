@@ -7,6 +7,9 @@
 4. [Hubungan dengan Computer Vision](#hubungan-dengan-computer-vision)  
 
 ---
+![AI Hierarchy](https://github.com/Rezorrie/CNN-ComputerVision-Module/blob/main/01_Introduction_CNN_and_CV/Images/AI%20Hierarchy.png?raw=true)
+)
+> **source** : https://blog.nilayparikh.com/the-perennial-debate-of-artificial-intelligence-ai-versus-machine-learning-ml-93b526925318
 
 ## 🤖 Artificial Intelligence
 
@@ -21,9 +24,7 @@ Persamaan matematis pada AI sering kali mengimplementasikan :
 ### Prinsip Kerja AI
 AI hanya bisa memproses data numerik. Apabila terdapat data non-numerik (e.g., teks, gambar, suara), maka diperlukan tahapan untuk melakukan **konversi data ke bentuk numerik** dalam tahap *pre-processing data*
 
-![AI Hierarchy](https://github.com/Rezorrie/CNN-ComputerVision-Module/blob/main/01_Introduction_CNN_and_CV/Images/AI%20Hierarchy.png?raw=true)
-)
-> **source** : https://blog.nilayparikh.com/the-perennial-debate-of-artificial-intelligence-ai-versus-machine-learning-ml-93b526925318
+
 
 ---
 
@@ -44,6 +45,10 @@ graph LR
 ---
 ## 🧠 Deep Learning
 
+![Artificial Neural Network](https://github.com/Rezorrie/CNN-ComputerVision-Module/blob/main/01_Introduction_CNN_and_CV/Images/AI%20Hierarchy.png?raw=true)
+)
+> **source** : https://www.spotfire.com/glossary/what-is-a-neural-network
+
 ### Definisi dan Konsep Dasar
 **Deep Learning** adalah sub-bagian dari Machine Learning dan mengimplementasikan Jaringan Saraf Tiruan/Artificial Neural Network (ANN). ANN adalah algoritma yang terinspirasi dari jaringan saraf di otak manusia. ANN tersusun atas node-node yang menyusun tiap layer dan setiap node dari suatu layer akan terhubung ke node di layer lainnya. . Layer pada ANN terdiri atas :
 - **Input Layer** - Lapisan untuk menerima data masukan
@@ -56,3 +61,9 @@ graph LR
 - **Fungsi Aktivasi** - ReLU, Sigmoid, Tanh, Linear
 
 > **Note :** Setiap node memiliki nilai *weight* dan *Threshold (Bias)*, ketika output suatu node melebihi nilai *Threshold* maka data output node tersebut akan dikirim menuju node di layer selanjutnya.
+
+---
+## 👀 Computer Vision
+
+## Apa itu Computer Vision?
+**Computer Vision (CV)** adalah 
