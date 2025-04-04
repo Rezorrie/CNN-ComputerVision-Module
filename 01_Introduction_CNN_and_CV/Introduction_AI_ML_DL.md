@@ -21,7 +21,7 @@ Persamaan matematis pada AI sering kali mengimplementasikan :
 ### Prinsip Kerja AI
 AI hanya bisa memproses data numerik. Apabila terdapat data non-numerik (e.g., teks, gambar, suara), maka diperlukan tahapan untuk melakukan **konversi data ke bentuk numerik** dalam tahap *pre-processing data*
 
-![AI Hierarchy](https://github.com/Rezorrie/CNN-ComputerVision-Module/blob/main/01_Introduction_CNN_and_CV/Screenshot%202025-04-04%20at%2007-36-12%20The%20perennial%20debate%20of%20Artificial%20Intelligence%20(AI)%20versus%20Machine%20Learning%20(ML)%20by%20Nilay%20Parikh%20Medium.png)
+![AI Hierarchy](https://github.com/Rezorrie/CNN-ComputerVision-Module/blob/main/01_Introduction_CNN_and_CV/Images/AI%20Hierarchy.png?raw=true)
 )
 > **source** : https://blog.nilayparikh.com/the-perennial-debate-of-artificial-intelligence-ai-versus-machine-learning-ml-93b526925318
 
