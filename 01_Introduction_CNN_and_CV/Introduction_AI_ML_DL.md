@@ -21,7 +21,7 @@ Persamaan matematis pada AI sering kali mengimplementasikan :
 ### Prinsip Kerja AI
 AI hanya bisa memproses data numerik. Apabila terdapat data non-numerik (e.g., teks, gambar, suara), maka diperlukan tahapan untuk melakukan **konversi data ke bentuk numerik** dalam tahap *pre-processing data*
 
-![AI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.nilayparikh.com%2Fthe-perennial-debate-of-artificial-intelligence-ai-versus-machine-learning-ml-93b526925318&psig=AOvVaw0HF_3bfQDQrcosUzMuuDmO&ust=1743813034745000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiNxoqQvYwDFQAAAAAdAAAAABAJ](https://miro.medium.com/v2/resize:fit:1200/1*HHbSelUVlDzpRSqzIuLuuw.png)](https://miro.medium.com/v2/resize:fit:720/format:webp/1*HHbSelUVlDzpRSqzIuLuuw.png)
+![AI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.nilayparikh.com%2Fthe-perennial-debate-of-artificial-intelligence-ai-versus-machine-learning-ml-93b526925318&psig=AOvVaw0HF_3bfQDQrcosUzMuuDmO&ust=1743813034745000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiNxoqQvYwDFQAAAAAdAAAAABAJ](https://miro.medium.com/v2/resize:fit:1200/1*HHbSelUVlDzpRSqzIuLuuw.png)](https://miro.medium.com/v2/resize:fit:720/format:webp/1*HHbSelUVlDzpRSqzIuLuuw.png))
 ---
 
 ## 📈 Machine Learning
