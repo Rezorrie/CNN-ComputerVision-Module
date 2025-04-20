@@ -5,7 +5,7 @@
 ---
 
 ## 1. Convolutional Layer
-**Layer utama** yang menggunakan kernel/filter untuk ekstraksi fitur secara otomatis.
+**Convolutional Layer** adalah **Layer utama** pada CNN Block yang menggunakan kernel/filter untuk ekstraksi fitur secara otomatis pada data.
 
 ### Representasi Matematis
 $$ Y_{i,j} = \sum_{m}\sum_{n} X_{i+m,j+n} \cdot W_{m,n} + b $$
@@ -48,7 +48,7 @@ conv_layer_tf = tf.keras.layers.Conv2D(
 ---
 
 ## 2. Activation Function
-Fungsi non-linear yang memperkenalkan kompleksitas pada model.
+**Activation Function** adalah Fungsi non-linear yang diaplikasikan kepada model neural network untuk memberikan kompleksitas pada model.
 
 ### Fungsi Aktivasi Populer:
 
@@ -106,7 +106,7 @@ model = tf.keras.Sequential([
 ---
 
 ## 3. Batch Normalization
-Teknik stabilisasi distribusi aktivasi layer.
+**Batch Normalization Layer** adalah layer digunakan untuk melakukan normalisasi pada data. Sehingga meningkatkan stabilisasi pada model.
 
 **Manfaat**:
 - Mempercepat konvergensi
@@ -146,7 +146,7 @@ model = tf.keras.Sequential([
 ---
 
 ## 4. Pooling Layers
-Operasi downsampling untuk reduksi dimensi.
+**Pooling Layer** adalah layer yang melakukan operasi downsampling untuk reduksi dimensi pada data tanpa menghilangkan informasi pada data.
 
 ### Jenis Pooling:
 | Tipe          | Operasi               | Keuntungan                     |
@@ -195,7 +195,7 @@ model = tf.keras.Sequential([
 ---
 
 ## 5. Dropout
-Teknik regularisasi dengan menonaktifkan neuron acak.
+**Dropout Layer** adalah layer yang digunakan untuk regularisasi dengan menonaktifkan neuron secara acak.
 
 **Karakteristik**:
 - Hanya aktif selama training
